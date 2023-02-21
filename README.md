@@ -1,2 +1,4 @@
-# nginx-conf
-NGINX reverse proxy server configuration
+# nginx conf
+NGINX server configuration
+
+## reverse proxy
